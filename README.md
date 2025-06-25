@@ -11,7 +11,7 @@ I'm a passionate MERN Stack Developer with hands-on experience in building respo
 
 ## 📁 Featured Projects
 
-### 🧑‍💼 HireHub – Job Portal
+### 💼 HireHub – Job Portal
 An ongoing job portal project that enables job listings, applications, user authentication, and resume upload.
 
 🔗 [GitHub Repo](https://github.com/vivekmishra22/hirehub)  
