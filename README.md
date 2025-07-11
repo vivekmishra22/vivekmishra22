@@ -15,7 +15,6 @@ I'm a passionate MERN Stack Developer with hands-on experience in building respo
 An ongoing job portal project that enables job listings, applications, user authentication, and resume upload.
 
 🔗 [GitHub Repo](https://github.com/vivekmishra22/hirehub)  
-🌐 [Live Demo](https://hirehub.netlify.app)
 
 ---
 
@@ -23,7 +22,6 @@ An ongoing job portal project that enables job listings, applications, user auth
 A full-featured recipe-sharing app where users can add, edit, delete, and view recipes. Includes image upload, JWT-based auth, and CRUD APIs.
 
 🔗 [GitHub Repo](https://github.com/vivekmishra22/flavorfix)  
-🌐 [Live Demo](https://flavorfix.netlify.app)
 
 
 ## 🔗 Connect with Me
