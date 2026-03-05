@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vivek Mishra – MERN Stack Developer and Application Support Engineer
+# 👋 Hi, I'm Vivek Mishra – Application Support and Development Trainee
 
 I'm a passionate MERN Stack Developer with hands-on experience in building responsive full-stack applications using React.js, Node.js, Express, and MongoDB.  Skilled in SQL query execution, Linux log analysis, API debugging, and
 resolving incidents within SLA timelines. Experienced in Incident Management, Root Cause Analysis (RCA), ERP module
